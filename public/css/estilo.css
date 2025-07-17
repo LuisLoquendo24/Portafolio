@@ -1,0 +1,137 @@
+/* Reset y base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #e04a4a;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navbar */
+nav {
+    background-color: #2c3e50;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+nav h1 {
+    font-size: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #1abc9c;
+}
+
+/* Contenido principal */
+.contenido {
+    padding: 40px 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+p, li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Portafolio: tarjetas de proyectos */
+.proyectos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.proyecto {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 280px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.proyecto:hover {
+    transform: scale(1.02);
+}
+
+.proyecto h4 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.proyecto a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #1abc9c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.proyecto a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 80px;
+}
+
+.imagen-seccion {
+    max-width: 20%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.imagenes-doble {
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.imagenes-doble img {
+    max-width: 100%;
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
