@@ -9,7 +9,7 @@
         <div class="proyecto">
             <h4>Portafolio Personal</h4>
             <p>Mi sitio web personal construido con Laravel y diseño responsivo.</p>
-            <a href="https://github.com/usuario/mi-portafolio" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Portafolio" target="_blank">Ver en GitHub</a>
         </div>
 
         <div class="proyecto">
