@@ -15,31 +15,31 @@
         <div class="proyecto">
             <h4>Aplicación Móvil</h4>
             <p>Aplicación móvil con autenticación y registro de usuarios.</p>
-            <a href="https://github.com/usuario/blog-laravel" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Aplicacion-Movil" target="_blank">Ver en GitHub</a>
         </div>
 
         <div class="proyecto">
             <h4>Sitio Roux Academy</h4>
             <p>Página web de una academia inglesa hecha con Laravel.</p>
-            <a href="https://github.com/usuario/blog-laravel" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Roux-Academy" target="_blank">Ver en GitHub</a>
         </div>
 
         <div class="proyecto">
             <h4>Biblioteca Virtual</h4>
             <p>Biblioteca Virtual sobre la carrera de Ingeniería en Sistemas de la Universidad ICEST.</p>
-            <a href="https://github.com/usuario/blog-laravel" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Biblioteca-Virtual" target="_blank">Ver en GitHub</a>
         </div>
 
         <div class="proyecto">
             <h4>Bot Telegram Python</h4>
             <p>Algoritmo para realizar tu propio bot de IA para Telegram usando Python.</p>
-            <a href="https://github.com/usuario/blog-laravel" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Bot-Telegram-Python" target="_blank">Ver en GitHub</a>
         </div>
 
         <div class="proyecto">
             <h4>Aplicación Intents</h4>
             <p>Aplicación móvil que explica las funciones básicas de los intents.</p>
-            <a href="https://github.com/usuario/blog-laravel" target="_blank">Ver en GitHub</a>
+            <a href="https://github.com/LuisLoquendo24/Aplicacion-Intents" target="_blank">Ver en GitHub</a>
         </div>
     </div>
 @endsection
